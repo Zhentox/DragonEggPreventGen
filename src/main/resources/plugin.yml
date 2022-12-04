@@ -1,0 +1,6 @@
+name: DragonEggPreventGen
+version: '${project.version}'
+main: zhentox.dragoneggpreventgen.dragoneggpreventgen.DragonEggPreventGen
+api-version: 1.19
+authors: [ Zhentox ]
+description: Dragon Egg Prevent Gen
